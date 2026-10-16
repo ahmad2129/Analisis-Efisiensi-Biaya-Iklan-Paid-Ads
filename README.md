@@ -86,7 +86,7 @@ Dashboard interaktif dibuat di Tableau dengan filter **Channel**, **Bulan**, **D
 - Funnel marketing (impressions hingga repeat purchase)
 - Proporsi biaya terbuang (membeli vs tidak membeli)
 
-> ![Dashboard](images/dashboard.png)
+> ![Dashboard](Dashboard Mini Project Marketing Analysis.png)
 
 ## 📊 Presentasi Project
 Untuk melihat penjelasan lengkap dari project ini, silakan lihat slide presentasi berikut:
