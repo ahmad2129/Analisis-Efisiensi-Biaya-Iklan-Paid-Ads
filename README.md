@@ -86,12 +86,12 @@ Dashboard interaktif dibuat di Tableau dengan filter **Channel**, **Bulan**, **D
 - Funnel marketing (impressions hingga repeat purchase)
 - Proporsi biaya terbuang (membeli vs tidak membeli)
 
-> [`![https://github.com/ahmad2129/Analisis-Efisiensi-Biaya-Iklan-Paid-Ads/blob/main/dashboard/Dashboard%20Mini%20Project%20Marketing%20Analysis.png]
+> ![Dashboard](images/dashboard.png)
 
 ## 📊 Presentasi Project
 Untuk melihat penjelasan lengkap dari project ini, silakan lihat slide presentasi berikut:
 
-🔗 [[https://github.com/ahmad2129/Analisis-Efisiensi-Biaya-Iklan-Paid-Ads/blob/main/report/Presentasi_Mini_Project_Marketing_Growth_Analytics_Ahmad_Malik_Ibrahim.pdf](#)]
+🔗 [Slide Presentasi](https://github.com/ahmad2129/Analisis-Efisiensi-Biaya-Iklan-Paid-Ads/blob/main/report/Presentasi_Mini_Project_Marketing_Growth_Analytics_Ahmad_Malik_Ibrahim.pdf)
 
 ## 🛠 Tools yang Digunakan
 - **Python** (Data Exploration, Data Cleaning & Feature Engineering)
